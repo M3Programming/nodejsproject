@@ -5,7 +5,7 @@ const cookieParser = require("cookie-parser");
 const sessions = require('express-session');
 const app = express()
 const http = require('http');
-var parseUrl = require('body-parser');
+const parseUrl = require('body-parser');
 
 
 
